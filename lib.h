@@ -1,1 +1,1 @@
-
+bool Giangiorgio(char &a);
